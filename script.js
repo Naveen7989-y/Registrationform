@@ -4,6 +4,7 @@ const passkey = document.querySelector('#password');
 
 const generate = document.querySelector('#generate'); 
 
+
 const signup=document.querySelector('#signup');
 const createpassword= document.querySelector('#createpassword');
 const seebtn = document.querySelector('#seebtn'); 
